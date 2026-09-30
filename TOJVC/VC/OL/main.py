@@ -1,5 +1,3 @@
-# this code is crafted with hands by nostorian | dc: @fw.nos
-
 import os
 import json
 import time
